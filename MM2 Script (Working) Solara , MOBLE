@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/oxtiger2/mm2script/main/mm2script'))()
